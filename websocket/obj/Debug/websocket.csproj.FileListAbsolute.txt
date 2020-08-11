@@ -1,0 +1,13 @@
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\bin\Debug\websocket.exe.config
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\bin\Debug\websocket.exe
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\bin\Debug\websocket.pdb
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\bin\Debug\WebSocket4Net.dll
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.csprojAssemblyReference.cache
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.Form1.resources
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.Properties.Resources.resources
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.csproj.GenerateResource.cache
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.csproj.CoreCompileInputs.cache
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.csproj.CopyComplete
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.exe
+C:\Users\maxim.volostnov\source\repos\websocket\websocket\obj\Debug\websocket.pdb
